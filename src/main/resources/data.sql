@@ -1,0 +1,2 @@
+insert into USERS(ID,USERNAME,PASSWORD) values (1,'Mohit','$2a$12$SSdE13KhuGGbezLUOwf1mufwdfzNEaRkJ8gdZ3dFV5Y2AgyCJV1PK');
+insert into USERS(ID,USERNAME,PASSWORD) values (2,'luffy','$2a$12$AGqW.gK69QVdAkuPa0dlJ.qxeKH/TdWhT2.X1JsbZIDnevs3NFF9C');
